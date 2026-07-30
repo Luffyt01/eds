@@ -319,7 +319,7 @@ main > .section:first-of-type {
 /* section metadata */
 main .section.light,
 main .section.highlight {
-  background-color: rgb(65, 147, 240);
+  background-color: rgb(230 156 95);
   margin: 0;
   padding: 40px 0;
 }
